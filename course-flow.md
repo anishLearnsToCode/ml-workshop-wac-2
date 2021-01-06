@@ -60,4 +60,22 @@
 
 ## Important Libraries
 1. [Introduction to Numpy](notebooks/numpy-tutorial/numpy-tutorial.ipynb)
-1. [Introdu]()
+1. [Introduction To Matplotlib](notebooks/matplotlib/matplotlib-tutorial.ipynb)
+1. [Drawing Multiple Plots](day_2/multiple_plots.py)
+1. [Introduction To Pandas Tutorial](notebooks/pandas/intro-to-pandas.ipynb)
+1. [Working With The Stack Overflow Data Using Pandas](notebooks/pandas/pandas-stack-overflow.ipynb)
+1. [Plotting Pandas Data Using Matplotlib](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
+1. [Vectorization In Numpy](notebooks/vectorization/Vectorization.ipynb)
+
+
+## Regression in Machine Learning
+1. [Linear Regression](notebooks/linear-regression/linear-regression.ipynb)
+1. [Multi Linear Regression](notebooks/multi-linear-regression/multi-linear-regression.ipynb)
+1. [Logistic Regression](notebooks/logistic-regression/Logistic_Regression.ipynb)
+
+## Deep Learning
+1. [Numpy Basics For Deep Learning](notebooks/numpy-tutorial/numpy-basics-for-deep-learning.ipynb)
+1. [Logistic Regression As A Neural Network](notebooks/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+1. [Planar Classification With 1 Hidden Layer](notebooks/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
+1. [Building Neural Network Step By Step](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+1. [Deep Neural Network Application (Building a Neural Network Classifier)](notebooks/building-your-deep-neural-network-step-by-step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)

@@ -1,4 +1,4 @@
-[![readme](https://img.shields.io/badge/quick%20link-Back%20To%20Main%20Readme%20File-1f72ff.svg)](#)
+[![readme](https://img.shields.io/badge/quick%20link-Back%20To%20Main%20Readme%20File-1f72ff.svg)](README.md)
 
 ## Python Environment Setup
 We need to install and configure a few things before we can write and run any Python code. To write Python code we 

@@ -63,24 +63,16 @@ You can stalk your instructor on
 - [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
 - [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
 - [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)
-- [String Functions](day_3/string_functions.py)
-- [sWAP cASE (Hackerrank)](day_3/swap_case.py)
-- [Lambda Functions](day_3/lambda_functions.py)
-- [String Formatting in Python](day_3/python_formatting.py)
-- [Leap Year Problem (Hackerrank)](day_3/write_function.py)
 
 ## 4️⃣ Day 4
 - [Vectorization (Jupyter Notebook)](notebooks/vectorization/Vectorization.ipynb)
 - [Decision Trees (Jupyter Notebook)](notebooks/decision-trees/decision-trees-tutorial.ipynb)
 - [Kaggle Titanic Solution (Jupyter Notebook)](notebooks/kaggle-titanic/titanic-solution.ipynb)
 - [Linear Regression (Jupyter Notebook)](notebooks/linear-regression/linear-regression.ipynb)
-- [Multi Linear Regression (Jupyter Notebook)](notebooks/multi-linear-regression/Multi%20Linear%20Regression.ipynb)
+- [Multi Linear Regression (Jupyter Notebook)](notebooks/multi-linear-regression/multi-linear-regression.ipynb)
 - [Logistic Regression (Jupyter Notebook)](notebooks/logistic-regression/Logistic_Regression.ipynb)
 
 ## 5️⃣ Day 5
-- [Nested For Loop](day_5/for_nested.py)
-- [Ice Cream Parlour (Hackerrank)](day_5/ice_cream_parlour.py)
-- [Instagram User Profile Downloader](day_5/insta_loader.py)
 - [Numpy Basics For Deep Learning (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-basics-for-deep-learning.ipynb)
 - [Logistic Regression As A Neural Network (Jupyter Notebook)](notebooks/logisic-regression-as-a-neural-network/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - [Planar Classification With 1 Hidden Layer (Jupyter Notebook)](notebooks/planar-classification-with-one-hidden-layer/Planar_data_classification_with_onehidden_layer.ipynb)
