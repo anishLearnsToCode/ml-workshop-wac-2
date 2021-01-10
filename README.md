@@ -11,7 +11,6 @@ __~Anish Sachdeva__
     Break Timings: 5:00 PM - 6:00 PM (17 - 18)
 </details>
 
-🌐 [Course Link](https://us02web.zoom.us/j/82092265595?pwd=L250M3hVaGVWemtLeERIYkFVR3A0QT09) |
 📽 [Class Video Recordings (Coming Soon!)]() |
 🌊 [Course Flow](course-flow.md) |
 ✒ [MS Exam Sample 1](assets/python-attempt-1-solutions.pdf) |
