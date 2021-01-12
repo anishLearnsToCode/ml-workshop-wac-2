@@ -52,6 +52,33 @@ You can stalk your instructor on
 [Instagram](https://www.instagram.com/anish.sachdeva_/).
 
 ## 1️⃣ Day 1
+- [Print Function](day_1/print_function.py)
+- [Comments](day_1/comments.py)
+- [Variables](day_1/variables.py)
+- [Variable Naming Rules](day_1/naming_rules.py)
+- [Taking User Input](day_1/taking_user_input.py)
+- [Taking Integer Input](day_1/taking_integer_input.py)
+- [Arithmetic Operators](day_1/arithmetic_operators.py)
+- [Boolean Operators](day_1/boolean_operators.py)
+- [If Else Statements](day_1/if_else_statements.py)
+- [Hackerrank If Else](day_1/hackerrank_if_else.py)
+- [Number is Odd or Even?](day_1/odd_even.py)
+- [Ternary Expression](day_1/ternary_exression.py)
+- [While Loop](day_1/while_loop.py)
+- [Operator Short Hand](day_1/operator_shorthand.py)
+- [Sum N Natural Numbers (While Loop)](day_1/sum_n_natural_numbers.py)
+- [Sum Squares (While Loop)](day_1/sum_squares.py)
+- [Factorial (While Loop)](day_1/factorial_while.py)
+- [Nested While Loops](day_1/nested_loop_while.py)
+- [Range Object](day_1/range_object.py)
+- [For Loop](day_1/for_loop.py)
+- [Sum N Natural Numbers (For Loop)](day_1/sum_n_natural_numbers_for.py)
+- [Sum Squares (For Loop)](day_1/sum_squares_for.py)
+- [Factorial (For Loop)](day_1/factorial_for.py)
+- [Nested Loops](day_1/nested_loop.py)
+- [Loop Control Flow Statements](day_1/loop_control_flow_statements.py)
+- [Functions](day_1/functions.py)
+- [Combinatorics](day_1/combinatorics.py)
 
 ## 2️⃣ Day 2
 - [NumPy Tutorial (Jupyter Notebook)](notebooks/numpy-tutorial/numpy-tutorial.ipynb)

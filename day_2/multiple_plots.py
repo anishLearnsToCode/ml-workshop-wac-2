@@ -17,4 +17,5 @@ plt.plot(t2, f(t2))
 plt.subplot(2, 1, 2)
 plt.plot(t2, np.cos(2 * np.pi * t2))
 
+plt.savefig('my-graph.png')
 plt.show()
