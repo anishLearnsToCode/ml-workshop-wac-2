@@ -102,6 +102,10 @@ You can stalk your instructor on
 - [Drawing Multiple Plots](day_2/multiple_plots.py)
 
 ## 3️⃣ Day 3
+- [Bar Plot](day_3/bar_plot.py)
+- [Determine If a Number is Prime](day_3/is_prime.py)
+- [Loading Images](day_3/loading_images.py)
+- [Lambda Functions](day_3/lambda_functions.py)
 - [Introduction to Pandas Tutorial (Jupyter Notebook)](notebooks/pandas/intro-to-pandas.ipynb)
 - [Working With The Stack Overflow Data Using Pandas (Jupyter Notebook)](notebooks/pandas/pandas-stack-overflow.ipynb)
 - [Plotting Pandas Data Using Matplotlib (Jupyter Notebook)](notebooks/matplotlib/pandas-matplot-lib-tutorial.ipynb)

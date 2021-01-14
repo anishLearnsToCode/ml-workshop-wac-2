@@ -6,3 +6,4 @@ keras
 tensorflow
 instaloader
 opencv-python
+nltk
